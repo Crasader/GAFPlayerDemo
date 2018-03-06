@@ -1,1 +1,1 @@
-# GAFPlayerDemo
+# 本项目演示如何在 cocos 项目中加载 gaf 动画文件。
